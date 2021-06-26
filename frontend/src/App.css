@@ -1,0 +1,14 @@
+.sjtu-message{
+    margin: 0;
+    padding: 0;
+    background-color: #f7f7f7;
+}
+
+#root{
+    margin: 0 auto;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #f7f7f7;
+    max-width: 375px;
+}

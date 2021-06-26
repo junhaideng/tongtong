@@ -1,0 +1,16 @@
+.notice-message {
+    margin: 5px 1px;
+    padding: 10px;
+    position: relative;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.notice-message-title{
+    font-size: 0.8rem;
+    overflow: hidden;
+}
+
+.notice-message-pubDate{
+    font-size: 0.6rem;
+}
